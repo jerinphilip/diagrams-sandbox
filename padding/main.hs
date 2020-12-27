@@ -1,4 +1,5 @@
-{-# LANGUAGE NoMonomorphismRestriction #-} {-# LANGUAGE FlexibleContexts          #-}
+{-# LANGUAGE NoMonomorphismRestriction #-} 
+{-# LANGUAGE FlexibleContexts          #-}
 {-# LANGUAGE TypeFamilies              #-}
 
 import Diagrams.Prelude
